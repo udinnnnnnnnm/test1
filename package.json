@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "upper-case": "^2.0.2",
+    "type": "module"
+  }
+}
